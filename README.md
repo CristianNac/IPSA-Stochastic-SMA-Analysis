@@ -17,4 +17,8 @@ El gráfico de velas proporciona una visualización detallada del comportamiento
 ### Medias Móviles Simples (SMA)
 
 **SMA 10**: Media móvil simple de 10 días, utilizada para identificar tendencias a corto plazo.
+![image](https://github.com/CristianNac/IPSA-Stochastic-SMA-Analysis/assets/159035841/0a2db597-581c-47ea-b4ec-f6f04ed280a5)
+
 **SMA 200**: Media móvil simple de 200 días, utilizada para identificar tendencias a largo plazo.
+![image](https://github.com/CristianNac/IPSA-Stochastic-SMA-Analysis/assets/159035841/ed3f387d-49a0-41a2-992f-25c28fa955ae)
+
